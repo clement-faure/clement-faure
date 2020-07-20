@@ -1,8 +1,8 @@
 ![logo](https://github.com/clement-faure/clement-faure/blob/master/logo.png)
 
-Hi 👋, I'm Clément, a freelance developer living in Bordeaux, specialized in **React** and **Next**.
+Hi 👋, I'm Clément, a freelance developer living in Bordeaux, France.
 
-I love web development and especially building products using [React](https://fr.reactjs.org/) and [Next](https://nextjs.org/).
+I like web development and especially building products using [React](https://fr.reactjs.org/) and [Next](https://nextjs.org/).
 
 I like :
 - remote work
