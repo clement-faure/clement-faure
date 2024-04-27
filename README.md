@@ -12,7 +12,10 @@ I like :
 
 You can check my portfolio [here](https://www.clement-faure.fr/portfolio).
 
+I have created [Uncoflow](https://uncoflow.com) - an online training platform.
+
 ## Stay in touch
 
 * [Website](https://www.clement-faure.fr/contact)
 * [LinkedIn](https://www.linkedin.com/in/clement-faure-pro/)
+* [Malt](https://www.malt.fr/profile/clementfaurepro)
