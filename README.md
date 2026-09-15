@@ -2,7 +2,9 @@
 
 <img align="right" src="./assets/clement-faure.jpg" alt="Portrait of Clément Faure" width="96" />
 
-# Clément Faure
+### Clément Faure
+
+<hr align="left" width="25%" />
 
 **Freelance SaaS developer · 8+ years of experience · Bordeaux, France**
 
