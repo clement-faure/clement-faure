@@ -6,7 +6,7 @@
 
 <hr align="left" width="25%" />
 
-**Freelance SaaS developer · 8+ years of experience · Bordeaux, France**
+**Freelance software engineer · SaaS · 8+ years of experience · Bordeaux, France**
 
 I build fast, maintainable products with **React, Next.js, TypeScript and Node.js**, using AI to ship faster.
 
