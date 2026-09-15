@@ -1,21 +1,15 @@
-![logo](https://github.com/clement-faure/clement-faure/blob/master/logo.png)
+[![Building fast, maintainable SaaS products with AI.](./assets/banner-linkedin.jpg)](https://taap.it/clement-faure)
 
-Hi 👋, I'm Clément, a freelance developer living in Bordeaux, France.
+<img align="right" src="./assets/clement-faure.jpg" alt="Portrait of Clément Faure" width="96" />
 
-I like web development and especially building products using [React](https://fr.reactjs.org/) and [Next](https://nextjs.org/).
+# Clément Faure
 
-I like :
-- remote work
-- creating unique products
-- project management
-- using advanced technologies
+**Freelance SaaS developer · 8+ years of experience · Bordeaux, France**
 
-You can check my portfolio [here](https://www.clement-faure.fr/portfolio).
+I build fast, maintainable products with **React, Next.js, TypeScript and Node.js**, using AI to ship faster.
 
-I have created [Uncoflow](https://uncoflow.com) - an online training platform.
+- 💜 Creator of **[Uncoflow](https://uncoflow.com)**, an online learning platform, and **Tribly**.
+- 🚀 Contributor to **[ReactIn](https://www.reactin.io/)**, a B2B prospecting platform.
+- 🏃 Trail runner when I’m away from the keyboard.
 
-## Stay in touch
-
-* [Website](https://www.clement-faure.fr/contact)
-* [LinkedIn](https://www.linkedin.com/in/clement-faure-pro/)
-* [Malt](https://www.malt.fr/profile/clementfaurepro)
+**[Website](https://taap.it/clement-faure)** · **[Let’s talk on LinkedIn](https://www.linkedin.com/in/clement-faure-pro/)** · **[Malt ★ 5/5](https://www.malt.fr/profile/clementfaurepro)**
